@@ -1,34 +1,13 @@
 [
-    {
-        "title": "MyNote 2",
-        "body": "This is my note"
-    },
-    {
-        "title": "MyNote",
-        "body": "This is my Note 1"
-    },
-    {
-        "title": "Grocery",
-        "body": "Buy Grocery"
-    },
-    {
-        "title": "Corona",
-        "body": "Corona Patients as on 17th March 2020"
-    },
-    {
-        "title": "Note",
-        "body": "Shubham"
-    },
-    {
-        "title": "MyNote 22",
-        "body": "Shubham"
-    },
-    {
-        "title": "Wash dishes",
-        "body": "Dishes of last party..."
-    },
-    {
-        "title": "Iron clothes",
-        "body": "The clothes you wore in the last party..."
-    }
+  { "title": "MyNote 2", "body": "This is my note" },
+  { "title": "MyNote", "body": "This is my Note 1" },
+  { "title": "Grocery", "body": "Buy Grocery" },
+  { "title": "Corona", "body": "Corona Patients as on 17th March 2020" },
+  { "title": "Note", "body": "Shubham" },
+  { "title": "MyNote 22", "body": "Shubham" },
+  { "title": "Wash dishes", "body": "Dishes of last party..." },
+  {
+    "title": "Iron clothes",
+    "body": "The clothes you wore in the last party..."
+  }
 ]
