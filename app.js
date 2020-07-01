@@ -11,11 +11,13 @@ yargs.command({
     builder: {
         title: {
             describe: "Title to a note",
+            alias: 't',
             demandOption: true,
             type: 'string'
         },
         body: {
             describe: "Note description",
+            alias: 'b',
             demandOption: true,
             type: 'string'
         }
@@ -32,6 +34,7 @@ yargs.command({
     builder: {
         title: {
             describe: 'Title of note to be deleted!',
+            alias: 't',
             demandOption: true,
             type: 'string'
         }
@@ -57,6 +60,7 @@ yargs.command({
     builder: {
         title: {
             describe: "Note to view",
+            alias: 't',
             demandOption: true,
             type: 'string'
         }
