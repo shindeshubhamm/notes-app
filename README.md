@@ -1,8 +1,10 @@
 # notes-app
 ### First node js project
-1. Yargs
-1. Chalk
-1. fs
+
+#### Dependencies
+1. [Yargs](https://www.npmjs.com/package/yargs)
+1. [Chalk](https://www.npmjs.com/package/chalk)
+1. [fs](https://nodejs.org/dist/latest-v12.x/docs/api/fs.html)
 
 #### Usage:
 Install dependencies:
